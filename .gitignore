@@ -11,3 +11,5 @@ data/raw/.cache/
 data/raw/**/.cache/
 data/raw/credit_g.csv
 .Rhistory
+
+outputs/logs/qc_report.json
