@@ -1,0 +1,9 @@
+column,min,p1,p50,p99,max
+duration,4,6.0,18.0,60.0,72
+credit_amount,250,425.83,2319.5,14180.39,18424
+installment_commitment,1,1.0,3.0,4.0,4
+residence_since,1,1.0,3.0,4.0,4
+age,19,20.0,33.0,67.00999999999999,75
+existing_credits,1,1.0,1.0,3.0,4
+num_dependents,1,1.0,1.0,2.0,2
+default,0,0.0,0.0,1.0,1

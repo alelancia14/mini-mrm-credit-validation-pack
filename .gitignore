@@ -1,5 +1,13 @@
 .venv/
 __pycache__/
-outputs/
+*.pyc
+outputs/models/
 data/processed/
 .DS_Store
+.cache/
+data/raw/openml_cache/
+data/raw/**/openml_cache/
+data/raw/.cache/
+data/raw/**/.cache/
+data/raw/credit_g.csv
+.Rhistory

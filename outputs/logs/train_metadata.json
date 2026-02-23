@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-02-23T23:07:35.026057+00:00",
+  "rows_train": 800,
+  "rows_test": 200,
+  "default_rate_train": 0.3,
+  "default_rate_test": 0.3,
+  "n_features_after_encoding": 63,
+  "random_seed": 42,
+  "test_size": 0.2,
+  "psi_bins": 10,
+  "numeric_preprocessing": "passthrough",
+  "python_version": "3.13.9",
+  "pandas_version": "3.0.1",
+  "numpy_version": "2.4.2",
+  "sklearn_version": "1.8.0",
+  "duckdb_version": "1.4.4"
+}

@@ -1,0 +1,35 @@
+{
+  "created_at_utc": "2026-02-23T23:07:34.342477+00:00",
+  "input_path": "/Users/alelancia/Desktop/PYTHON_FILES/mini-mrm-credit-validation-pack/data/raw/credit_g.csv",
+  "output_path": "/Users/alelancia/Desktop/PYTHON_FILES/mini-mrm-credit-validation-pack/data/processed/model_table.csv",
+  "rows": 1000,
+  "cols": 23,
+  "default_rate": 0.3,
+  "numeric_columns": [
+    "duration",
+    "credit_amount",
+    "age",
+    "default",
+    "credit_amount_log",
+    "credit_per_month"
+  ],
+  "categorical_columns": [
+    "checking_status",
+    "credit_history",
+    "purpose",
+    "savings_status",
+    "employment",
+    "installment_commitment",
+    "personal_status",
+    "other_parties",
+    "residence_since",
+    "property_magnitude",
+    "other_payment_plans",
+    "housing",
+    "existing_credits",
+    "job",
+    "num_dependents",
+    "own_telephone",
+    "foreign_worker"
+  ]
+}

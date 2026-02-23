@@ -1,0 +1,50 @@
+column,n_unique,rank,category,count,rate
+checking_status,4,1,no checking,394,0.394
+checking_status,4,2,<0,274,0.274
+checking_status,4,3,0<=X<200,269,0.269
+checking_status,4,4,>=200,63,0.063
+credit_history,5,1,existing paid,530,0.53
+credit_history,5,2,critical/other existing credit,293,0.293
+credit_history,5,3,delayed previously,88,0.088
+credit_history,5,4,all paid,49,0.049
+credit_history,5,5,no credits/all paid,40,0.04
+purpose,10,1,radio/tv,280,0.28
+purpose,10,2,new car,234,0.234
+purpose,10,3,furniture/equipment,181,0.181
+purpose,10,4,used car,103,0.103
+purpose,10,5,business,97,0.097
+savings_status,5,1,<100,603,0.603
+savings_status,5,2,no known savings,183,0.183
+savings_status,5,3,100<=X<500,103,0.103
+savings_status,5,4,500<=X<1000,63,0.063
+savings_status,5,5,>=1000,48,0.048
+employment,5,1,1<=X<4,339,0.339
+employment,5,2,>=7,253,0.253
+employment,5,3,4<=X<7,174,0.174
+employment,5,4,<1,172,0.172
+employment,5,5,unemployed,62,0.062
+personal_status,4,1,male single,548,0.548
+personal_status,4,2,female div/dep/mar,310,0.31
+personal_status,4,3,male mar/wid,92,0.092
+personal_status,4,4,male div/sep,50,0.05
+other_parties,3,1,none,907,0.907
+other_parties,3,2,guarantor,52,0.052
+other_parties,3,3,co applicant,41,0.041
+property_magnitude,4,1,car,332,0.332
+property_magnitude,4,2,real estate,282,0.282
+property_magnitude,4,3,life insurance,232,0.232
+property_magnitude,4,4,no known property,154,0.154
+other_payment_plans,3,1,none,814,0.814
+other_payment_plans,3,2,bank,139,0.139
+other_payment_plans,3,3,stores,47,0.047
+housing,3,1,own,713,0.713
+housing,3,2,rent,179,0.179
+housing,3,3,for free,108,0.108
+job,4,1,skilled,630,0.63
+job,4,2,unskilled resident,200,0.2
+job,4,3,high qualif/self emp/mgmt,148,0.148
+job,4,4,unemp/unskilled non res,22,0.022
+own_telephone,2,1,none,596,0.596
+own_telephone,2,2,yes,404,0.404
+foreign_worker,2,1,yes,963,0.963
+foreign_worker,2,2,no,37,0.037
